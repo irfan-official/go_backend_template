@@ -1,3 +1,3 @@
-module github.com/irfan-official/go_backend_template
+module project
 
 go 1.26.2
